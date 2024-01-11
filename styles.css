@@ -6,7 +6,19 @@ body {
     flex-direction: column;
 }
 
+/* Header Section Styles */
+
 header {
     display: flex;
     background-color: beige;
+}
+
+.right-links {
+    list-style: none;
+    display: flex;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
 }
